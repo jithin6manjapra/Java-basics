@@ -1,0 +1,9 @@
+package sample1;
+
+public class HelloSample {
+	
+	public static void main(string ar[]) {
+		
+	}
+
+}
