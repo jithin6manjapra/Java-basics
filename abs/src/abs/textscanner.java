@@ -1,14 +1,14 @@
 package abs;
 
 public class textscanner {
-	hello text;
+	hello obj;
 	
-	public textscanner(hello text){
-		this.text=text;
+	public textscanner(hello obj){
+		this.obj=obj;
 	}
 	
 	void scan() {
-		text.ontext("scanned textz");
+		obj.ontext("scanned textz");
 	}
 	
 
